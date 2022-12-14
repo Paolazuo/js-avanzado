@@ -1,0 +1,17 @@
+p{
+	color: red; font-size: 13px;
+}
+
+main {
+	max-width: 800px;
+	width: 90%;
+	margin: auto;
+	padding: 40px;
+	background-color: rgb(173, 171, 171);
+}
+
+.formulario_error {
+	font-size: 15px;
+	margin-bottom: 0;
+	display: none;
+}
